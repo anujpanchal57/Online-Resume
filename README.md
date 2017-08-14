@@ -1,4 +1,8 @@
 # Project Details
+
+## Running the Game
+> If you want to run this project on your browser, then please go to the following link : (https://anujpanchal57.github.io/Online-Resume/)
+
 ## How do I complete this project?
 Review the Online Resume [Project Rubric](https://review.udacity.com/?_ga=1.189245867.12280332.1465333852#!/projects/2962818615/rubric).
 
