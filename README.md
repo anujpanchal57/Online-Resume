@@ -1,6 +1,6 @@
 # Project Details
 
-## Running the Game
+## Running the Project
 > If you want to run this project on your browser, then please go to the following link : (https://anujpanchal57.github.io/Online-Resume/)
 
 ## How do I complete this project?
